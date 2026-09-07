@@ -20,11 +20,7 @@
 
 Примечание: Расширение .ipynb (Interactive Python Notebook) обеспечивает интерфейс ячеек для выполнения кода.
 
-
-* 
-* 
-   * 
-   
+------------------------------
 Рисунок 2 – Маршрут до целевой папки
 <img width="828" height="409" alt="image" src="https://github.com/user-attachments/assets/a26b8aae-d6e5-4c04-94fa-138bf7aece99" />
 
